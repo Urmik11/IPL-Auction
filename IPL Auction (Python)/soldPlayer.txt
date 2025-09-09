@@ -1,0 +1,7 @@
+      Sold Players :
+
+id: 88 , name: Rishabh Pant , role: Wk-Batsman , Base-Price: 20000000 , Sold-Price: 270000000 , Team: LSG
+id: 33 , name: Hardik Pandya , role: All-Rounder , Base-Price: 20000000 , Sold-Price: 140000000 , Team: MI
+id: 11 , name: Mohammad Shami , role: Bowler , Base-Price: 20000000 , Sold-Price: 110000000 , Team: SRH
+id: 7 , name: MS Dhoni , role: Wk-Batsman , Base-Price: 20000000 , Sold-Price: 150000000 , Team: CSK
+id: 56 , name: Karun Nair , role: Batsman , Base-Price: 5000000 , Sold-Price: 6000000 , Team: RCB

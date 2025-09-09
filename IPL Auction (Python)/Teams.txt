@@ -1,0 +1,7 @@
+    Teams :
+
+Team: SRH , Available Balance: 1090000000 , Total Spent: 110000000
+Team: GT , Available Balance: 1200000000 , Total Spent: 0
+Team: CSK , Available Balance: 1050000000 , Total Spent: 150000000
+Team: MI , Available Balance: 1060000000 , Total Spent: 140000000
+Team: RCB , Available Balance: 1194000000 , Total Spent: 6000000

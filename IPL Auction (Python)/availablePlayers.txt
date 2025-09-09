@@ -1,0 +1,10 @@
+      Available Players :
+
+id: 45 , name: Rohit Sharma , role: Batsman , Base-Price: 20000000
+id: 18 , name: Virat Kohli , role: Batsman , Base-Price: 20000000
+id: 77 , name: Shubman Gill , role: Batsman , Base-Price: 20000000
+id: 62 , name: Travis Head , role: Batsman , Base-Price: 20000000
+id: 33 , name: Hardik Pandya , role: All-Rounder , Base-Price: 20000000
+id: 11 , name: Mohammad Shami , role: Bowler , Base-Price: 20000000
+id: 2 , name: Vaibhav Shuryavanshi , role: Batsman , Base-Price: 2000000
+id: 21 , name: Urmik Dobariya , role: Batsman , Base-Price: 20000000
